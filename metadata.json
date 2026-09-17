@@ -1,0 +1,6 @@
+{
+  "name": "Skylight Luminous",
+  "description": "Skylight Luminous provides professional engineering, construction, infrastructure, testing, installation, and maintenance services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
